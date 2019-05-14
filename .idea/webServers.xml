@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="6d5c0978-fc33-415e-bb49-a6745c3ccec3" name="我的服务器" url="http://120.79.4.151">
+        <fileTransfer host="120.79.4.151" port="22" privateKey="E:\小游\个人网站\常用软件\xiaoyoukey.ppk" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
